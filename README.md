@@ -24,7 +24,7 @@
 +       :+X$$x:.::.  x&Xx+:. .x   ; .+$X&&&&&X.x&X&&                                                                  |
 +      X$X;:.x   ;+ $&&&$$$XXX$$$&&&&&&&&&&&&x.;&&&            TOOLS:                                                 |
 +    .;XX+&&+xx&&xX+&&&&&X&&&&&&&&&&&&&&&&&&&&;x&&&            -------------------------------                        |
-+    ;x&&&$$Xx++X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&x&&&&            [x] OS: Linux (main), Windows                          |
++    ;x&&&$$Xx&&X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&x&&&&            [x] OS: Linux (main), Windows                          |
 +    ;.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&:&&&             [x] Programming Languages: C, Java, Python, C++        |
 +     .X&&&&&&&&&&$&&&&&&&&&&&X$&&&&&&&&&&&&&&:&&              [x] Hardware Description Languages: VHDL, Verilog      |
 +      +&&&&&&&&&X&&&&&&&&&&&&&&x$&&&&&&&&&&&& $               [x] CAD Tools: KiCad, Onshape                          |
