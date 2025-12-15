@@ -25,9 +25,9 @@
 +      X$X;:.     :+$&&&$$$XXX$$$&&&&&&&&&&&&x.;&&&            TOOLS:                                                 |
 +    .;XX+  +xxxxxX+&&&&&X&&&&&&&&&&&&&&&&&&&&;x&&&            -------------------------------                        |
 +    ;x&&&$$Xx++X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&x&&&&            [x] OS: Linux (main), Windows                          |
-+    ;.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&:&&&             [x] Programming languages: C, Java, Python, C++        |
++    ;.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&:&&&             [x] Programming Languages: C, Java, Python, C++        |
 +     .X&&&&&&&&&&$&&&&&&&&&&&X$&&&&&&&&&&&&&&:&&              [x] Hardware Description Languages: VHDL, Verilog      |
-+      +&&&&&&&&&X&&&&&&&&&&&&&&x$&&&&&&&&&&&& $               [x] CAD tools: KiCad, Onshape                          |
++      +&&&&&&&&&X&&&&&&&&&&&&&&x$&&&&&&&&&&&& $               [x] CAD Tools: KiCad, Onshape                          |
 +      :$&&&&&&&$+$x;Xxx;  .;&&&&+.X&&&$$&&&&x;x               [x] DevOps: Git, Github                                |
 +       X&&&&&&$.XX:                .xXX+X&&X:.&&&             [x] Simulation: LTSpice, Pspice, Psim                  |
 +       x$&$&$x  :.:. ;++X&$Xx;   . +&&X;x+;.     ;&&          [x] Numerical Computing: Matlab, Octave                |
