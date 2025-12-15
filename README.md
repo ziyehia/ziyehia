@@ -24,8 +24,8 @@
        :+X$$x:.::.  x&Xx+:. .x   ; .+$X&&&&&X.x&X&&
       X$X;:.     :+$&&&$$$XXX$$$&&&&&&&&&&&&x.;&&&            Tools:
     .;XX+  +xxxxxX+&&&&&X&&&&&&&&&&&&&&&&&&&&;x&&&            -------------------------------
-    ;x&&&$$Xx++X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&x&&&&            [x] Programming languages: C, Java, Python, C++ (incoming)
-    ;.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&:&&&             [x] Hardware Description Languages: VHDL, Verilog (incoming)
+    ;x&&&$$Xx++X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&x&&&&            [x] Programming languages: C, Java, Python, C++
+    ;.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&:&&&             [x] Hardware Description Languages: VHDL, Verilog
      .X&&&&&&&&&&$&&&&&&&&&&&X$&&&&&&&&&&&&&&:&&              [x] CAD tools: KiCad, Onshape
       +&&&&&&&&&X&&&&&&&&&&&&&&x$&&&&&&&&&&&& $               [x] DevOps: Git, Github
       :$&&&&&&&$+$x;Xxx;  .;&&&&+.X&&&$$&&&&x;x 
