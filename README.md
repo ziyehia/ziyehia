@@ -6,28 +6,28 @@
                     :++;:xx;X;&X
                     ... .x+X&&&&&&&&
                  .    :;xXXX;X&&&&$+&&$
-                .     .x+x+$$+:+.:;  :X;+;                                       USER_META:
-                 .:;:;.:;;xxx+;       ..::+                                      -------------------------------
-                     .: .;::            .;;;&                                    > NAME:   Yehia Zeaiter
-                   :.       :. :+:. . .X:&:.x                                    > ROLE:   Engineering Student
-                  +   .:+Xx+x$&&&XxXx+++.:  ;&&                                  > Domain: Microelectronic
-               ..;xx$&&&&&&&&&&&&&&&&&$x+;.:  x&&&                               > STATUS: In Development
+                .     .x+x+$$+:+.:;  :X;+;                    USER_META:
+                 .:;:;.:;;xxx+;       ..::+                   -------------------------------
+                     .: .;::            .;;;&                 > NAME:   Yehia Zeaiter
+                   :.       :. :+:. . .X:&:.x                 > ROLE:   Engineering Student
+                  +   .:+Xx+x$&&&XxXx+++.:  ;&&               > Domain: Microelectronic
+               ..;xx$&&&&&&&&&&&&&&&&&$x+;.:  x&&&            > STATUS: In Development
             :+X&&&&&&&&&&&&&&&&&&&&&&&Xx; : .+$X
          :x$&&&&&&&&&&&&&&&&&&&&&&&&&&&$x: .  :::
-      :x$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$:..   ;:                                SKILLS:
-     X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&;.x:                                     -------------------------------
-    .X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$; .                                     [x] Embedded Programming
-     $&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&X;                                      [x] Circuit Design
-    .$&&&&&&&&&&&&&&&&&&&&&&X;          &&&&&&                                   [x] Low Level Programming
-     X&&&&$$$X$&&&&&&&&$;     .+$&&&x  :x&&$  :$X&                               [x] Object Oriented Programming
+      :x$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$:..   ;:             SKILLS:
+     X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&;.x:                  -------------------------------
+    .X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$; .                  [x] Embedded Programming
+     $&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&X;                   [x] Circuit Design
+    .$&&&&&&&&&&&&&&&&&&&&&&X;          &&&&&&                [x] Low Level Programming
+     X&&&&$$$X$&&&&&&&&$;     .+$&&&x  :x&&$  :$X&            [x] Object Oriented Programming
      x.         .;X&&&X: :;;:.:x+:.;++.$&&&&; ++:$&
        :+X$$x:.::.  x&Xx+:. .x   ; .+$X&&&&&X.x&X&&
-      X$X;:.     :+$&&&$$$XXX$$$&&&&&&&&&&&&x.;&&&                               Tools:
-    .;XX+  +xxxxxX+&&&&&X&&&&&&&&&&&&&&&&&&&&;x&&&                               -------------------------------
-    ;x&&&$$Xx++X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&x&&&&                               [x] Programming languages: C, Java, Python, C++ (incoming)
-    ;.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&:&&&                                [x] Hardware Description Languages: VHDL, Verilog (incoming)
-     .X&&&&&&&&&&$&&&&&&&&&&&X$&&&&&&&&&&&&&&:&&                                 [x] CAD tools: KiCad, Onshape
-      +&&&&&&&&&X&&&&&&&&&&&&&&x$&&&&&&&&&&&& $                                  [x] DevOps: Git, Github
+      X$X;:.     :+$&&&$$$XXX$$$&&&&&&&&&&&&x.;&&&            Tools:
+    .;XX+  +xxxxxX+&&&&&X&&&&&&&&&&&&&&&&&&&&;x&&&            -------------------------------
+    ;x&&&$$Xx++X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&x&&&&            [x] Programming languages: C, Java, Python, C++ (incoming)
+    ;.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&:&&&             [x] Hardware Description Languages: VHDL, Verilog (incoming)
+     .X&&&&&&&&&&$&&&&&&&&&&&X$&&&&&&&&&&&&&&:&&              [x] CAD tools: KiCad, Onshape
+      +&&&&&&&&&X&&&&&&&&&&&&&&x$&&&&&&&&&&&& $               [x] DevOps: Git, Github
       :$&&&&&&&$+$x;Xxx;  .;&&&&+.X&&&$$&&&&x;x 
        X&&&&&&$.XX:                .xXX+X&&X:.&&&
        x$&$&$x  :.:. ;++X&$Xx;   . +&&X;x+;.     ;&&
