@@ -1,6 +1,6 @@
 ```diff
 + # SYSTEM::BOOT_SEQ: COMPLETE                                                                                        |
-+ # START_OF_TRANSMISSION                                                                                                                                                
++ # START_OF_TRANSMISSION                                                                                             |                                                  
 +                    :++;:xx;X;&X                                                                                     |
 +                    ... .x+X&&&&&&&&                                                                                 |
 +                 .    :;xXXX;X&&&&$+&&$                                                                              |
