@@ -23,7 +23,7 @@
 +      X$X;:.x   ;+ $&&&$$$XXX$$$&&&&&&&&&&&&x.;&&&            TOOLS:                                                 |
 +    .;XX+&&+xx&&xX+&&&&&X&&&&&&&&&&&&&&&&&&&&;x&&&            -------------------------------                        |
 +    ;x&&&$$Xx&&X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&x&&&&            [x] OS: Linux (main), Windows                          |
-+    ;.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&:&&&             [x] Programming Languages: C, Java, Python, C++        |
++    ;.&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&:&&&             [x] Programming Languages: C, Java, Python, C++, ASM   |
 +     .X&&&&&&&&&&$&&&&&&&&&&&X$&&&&&&&&&&&&&&:&&              [x] Hardware Description Languages: VHDL, Verilog      |
 +      +&&&&&&&&&X&&&&&&&&&&&&&&x$&&&&&&&&&&&& $               [x] CAD Tools: KiCad, Onshape                          |
 +      :$&&&&&&&$+$x;Xxx;  .;&&&&+.X&&&$$&&&&x;x               [x] DevOps: Git, Github                                |
