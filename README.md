@@ -9,7 +9,7 @@
 +                     .: .;::            .;;;&                 NAME:   Yehia Zeaiter                                  |
 +                   :.       :. :+:. . .X:&:.x                 ROLE:   Engineering Student                            |
 +                  +   .:+Xx+x$&&&XxXx+++.:  ;&&               Domain: Microelectronics                               |
-+               ..;xx$&&&&&&&&&&&&&&&&&$x+;.:  x&&&            STATUS: In Development                                 |
++               ..;xx$&&&&&&&&&&&&&&&&&$x+;.:  x&&&            STATUS: In Development ███████▒▒▒                      |
 +            :+X&&&&&&&&&&&&&&&&&&&&&&&Xx; : .+$X                                                                     |
 +         :x$&&&&&&&&&&&&&&&&&&&&&&&&&&&$x: .  :::                                                                    |
 +      :x$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$:..   ;:             SKILLS:                                                |
